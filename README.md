@@ -126,7 +126,9 @@ Extending & customizing: since it’s a simple web app, one can add new algorith
       <td width="50%">
         <h3 align="center">Employee Management System 🏢💼</h3>
         <div align="center">
-          <a href="https://github.com/gautam050/Employee-Management-System" target="_blank"> 
+           <a href="https://github.com/gautam050/Employee-Management-System" target="_blank"> 
+            <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+          </a>
           <br><br>
           <!-- <img src="https://via.placeholder.com/400x200/96CEB4/FFFFFF?text=Certification+Generator" width="400" alt="Certification Generator"/> -->
           <br><br>
