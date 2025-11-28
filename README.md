@@ -16,7 +16,7 @@
 
 <div align="center">
   <h2>🌐 Check Out My Portfolio</h2>
-  <a href="https://ashutoshgautam.netlify.app/" target="_blank">
+  <a href="https://ashutoshgautamportfolio.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/🌟_My_Portfolio-FF6B6B?style=for-the-badge&logo=netlify&logoColor=white&labelColor=FF6B6B" alt="Portfolio" height="40"/>
   </a>
 </div>
